@@ -1,0 +1,22 @@
+
+img
+{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+h5{
+    margin-top: 50px;
+}
+.footer
+{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+body
+{
+    background-color: #f8f9fa!important;
+}
+.right
+{
+    float: right;
+}
